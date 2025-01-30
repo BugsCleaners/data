@@ -16,3 +16,10 @@ https://portal.practical-devsecops.training/courses/ai-security-professional
 
 
 https://click.pstmrk.it/3s/www.practical-devsecops.com%2F/mcil/9wa7AQ/AQ/869b3e8a-fefc-42c8-9c9b-497fe430a5e5/1/yvUqzZjhqg
+
+
+	You should be able to access the URLs - 
+https://colab.research.google.com/ and https://portal.practical-devsecops.training/
+	Laptops shouldn't  have any issues with accessing the websites, aka firewalls
+	You should be able to  access the Google Docs - 
+https://docs.google.com/document/d/1Q6AYp7wObQW4Y4KrpthOykQnFEq_O68NeBHQ7l6zDgg/edit?tab=t.0#heading=h.3p15pulrd9rw
