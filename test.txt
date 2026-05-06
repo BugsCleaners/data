@@ -24,33 +24,3 @@ https://colab.research.google.com/ and https://portal.practical-devsecops.traini
 	You should be able to  access the Google Docs - 
 https://docs.google.com/document/d/1Q6AYp7wObQW4Y4KrpthOykQnFEq_O68NeBHQ7l6zDgg/edit?tab=t.0#heading=h.3p15pulrd9rw
 
-
-
-Job Title : Cyber Engagement Team Specialist / Security Quality Assurance
-Reports To: CISO
-
-The Security Service Management Specialist plays a critical role in ensuring the delivery and continuous improvement of cybersecurity services. This position is responsible for managing adherence to Service Level Agreements (SLAs), overseeing proper escalation processes, prioritize critical tasks, and maintaining effective communication with various audiences. The ideal candidate will have an excellent management and communication skills, along with experience with IT Service Management (ITSM) tools like JIRA.
-
-
-Key Responsibilities:
-
-•	Ensure the timely and effective delivery of cybersecurity tickets in accordance with agreed SLAs.
-•	Monitor performance metrics and develop processes for service improvement.
-•	Coordinate with various cybersecurity/stakeholders teams to prioritize tickets on critical path for the organization. 
-•	Track and analyze SLA performance.
-•	Identify and implement corrective actions when SLA performance falls below expectations.
-•	Implement and manage an effective escalation process to handle high-priority issues.
-•	Provide regular updates and reports on cybersecurity service performance to senior management and key stakeholders.
-•	Facilitate communication between technical teams, management, and stakeholders to ensure alignment on expectations and service delivery.
-•	Conduct meetings and presentations for various audiences to share insights and status updates.
-
-Skills: 
-•	Experience with IT Service Management (ITSM) tools like JIRA
-•	Knowledge of agile development.
-•	Excellent problem-solving abilities and a great eye for detail.
-•	Ability to convey technical information clearly to non-technical stakeholders and diverse audiences.
-•	Ability to adapt to changing circumstances and new information.
-
-This is a great opportunity to join a passionate and talented security team and help in securing  Arab Bank. 
-
-
